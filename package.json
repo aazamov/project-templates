@@ -1,0 +1,22 @@
+{
+  "name": "intersoft-templates",
+  "version": "0.0.6",
+  "description": "CLI для создания React или Next.js проектов от Intersoft",
+  "bin": {
+    "intersoft-templates": "./bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "create",
+    "react",
+    "nextjs",
+    "intersoft"
+  ],
+  "author": "Ashrafkhan Azamov aazamov809@gmail.com",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^9.2.15"
+  }
+}
